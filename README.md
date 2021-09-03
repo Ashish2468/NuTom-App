@@ -16,7 +16,7 @@ This is the app of Nutom which is an EdTEch Start Up
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
 |  ![](/snapshots/Details2.jpg)| ![](/snapshots/Details3.jpg)| 
 
-## Installation
+<!-- ## Installation
 
 If using yarn:
 
@@ -80,101 +80,52 @@ You can also use the `Toast` component.
         </View>
     </Root>
 ```
-
-### Popup Type Usage
-
-Popup contains a type-customization scheme `Type` props.
-
-Example success usage:
+ -->
+## Configuration Steps
+1. Cloning the repository:
 
 ```
-Popup.show({
-    type: 'Success'
-})
+$ git clone https://github.com/Ashish2468/NuTom-App-UI.git
 ```
 
-Example warning usage:
+2. Open the project:
 
-```
-Popup.show({
-    type: 'Warning'
-})
-```
+`$ cd T-UI-Clone`
 
-Example error usage:
+3. Now run the app on your connected device (using terminal):
 
-```
-Popup.show({
-    type: 'Danger'
-})
-```
+`$ npm install` then
+`$ npx react-native run-android` then
+`Setup the dependencies and link it`
 
-### Popup Style Background
-
-Popup contains a customization in `Background` props.
-
-Example usage:
-
-```
-Popup.show({
-    background: 'red'
-})
-```
-
-### Popup Callback Function
-
-Popup contains a callback function in button popup `Callback` props.
-
-Example usage:
-
-```
-Popup.show({
-    callback: Popup.hide()
-})
-```
-
-
-## Documentation
-
-### Popup Component
-
-| Name       | Description                                     | Default            | Type        |
-| ---------- | ----------------------------------------------- | ------------------ | ----------- |
-| title      | Sets the main popup title                       | Upload complete    | String      |
-| type       | Defines the type (Success, Warning or Error)    | Success            | String      |
-| textBody   | Defines the text body of popup                  |                    | String      |
-| button     | Whether or not to display the                   | true               | Bool        |
-| buttonText | Defines the text button of popup                | Ok                 | String      |
-| callback   | Defines the function of button                  | Alert()            | Func        |
-| background | Sets the backgroundColor                        | rgba(0, 0, 0, 0.5) | String      |
-| timing     | Sets the time for the popup to close by itself  | 5000               | Number      |
-| autoclose  | sets whether the popup will close automatically | false              | Bool        |
-| icon       | use costum icon                                 | false              | Component   |
-
-
-### Toast Component
-
-| Name       | Description                                     | Default            | Type      |
-| ---------- | ----------------------------------------------- | ------------------ | --------- |
-| title      | Sets the main toast title                       |                    | String    |
-| text       | Defines the text to toast                       |                    | String    |
-| color      | Defines the color to title, border and iconC    | #e1e1e1            | String    |
-| timing     | Define your timing to close toast               | 6s                 | Int       |
-| icon       | Choose your the best icon to toast              |                    | Component |
-
-## Contributing
-
-Pull requests are always welcome! Feel free to open a new GitHub issue for any changes that can be made.
 
 ## Author
 
-Rafael Augusto | [https://linkedin.com/in/rafaelaugustos/](https://linkedin.com/in/rafaelaugustos/)
+Ashish Gupta| [https://linkedin.com/in/rafaelaugustos/](https://www.linkedin.com/in/ashish-gupta-2002/)
 
-## Roadmap
-- <s>Toast</s>
-- Alert/Confirm
-- Create a function to close toast with gesture
 
+## LICENSE
+Official License
+
+Copyright (c) 2020 Ashish Gupta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## License
 
