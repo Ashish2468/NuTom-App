@@ -6,18 +6,16 @@ A simple and fully customizable React Native component that implements a popup U
 - Function to close automatically
 - Receives callback prop to set button action
 
-## Example popup
+## Main App
 
-|                          Home Screen                        |                          Form Screen                          |                         Details Screen#1                         |
+|                          Home Screen                        |                          Form Screen                          |                         Details Screen #1                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
 ![](/snapshots/Home.jpg)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
 
 
-## Example toast
-
-|                          Example One                          |                          Example Two                          |                         Example Three                         |
+|                          Details Screen #2                          |                          Details Screen #3                          |                         Example Three                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-| ![](assets/toast-01.gif) [examples/App.js](examples/App.js) | ![](assets/toast-02.gif) [examples/App.js](examples/App.js) | ![](assets/toast-03.gif) [examples/App.js](examples/App.js) |
+|  ![](/snapshots/Details2.jpg)| ![](/snapshots/Details3.jpg)| ![](assets/toast-03.gif) [examples/App.js](examples/App.js) |
 
 ## Installation
 
