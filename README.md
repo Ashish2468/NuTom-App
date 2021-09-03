@@ -10,7 +10,7 @@ A simple and fully customizable React Native component that implements a popup U
 
 |                          Example One                          |                          Example Two                          |                         Example Three                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-![](/snapshots/Home.jpg)| ![](/snapshots/NutomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
+![](/snapshots/Home.jpg)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
 
 
 ## Example toast
