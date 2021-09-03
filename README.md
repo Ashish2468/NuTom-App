@@ -1,10 +1,9 @@
-# react-native-popup-ui
+# NuTom App 
+This is the app of Nutom which is an EdTEch Start Up 
 
-A simple and fully customizable React Native component that implements a popup UI.
-
-- Easy to customize, has prop to change background color
-- Function to close automatically
-- Receives callback prop to set button action
+- Easy to Use
+- Firebase Linked Form
+- 2 Carousel
 
 ## Main App
 
