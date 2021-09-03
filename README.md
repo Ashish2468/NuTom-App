@@ -13,9 +13,9 @@ A simple and fully customizable React Native component that implements a popup U
 ![](/snapshots/Home.jpg)| ![](/snapshots/NuTomAppForm.jpg)| ![](/snapshots/Details1.jpg)| 
 
 
-|                          Details Screen #2                          |                          Details Screen #3                          |                         Example Three                         |
-| :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-|  ![](/snapshots/Details2.jpg)| ![](/snapshots/Details3.jpg)| ![](assets/toast-03.gif) [examples/App.js](examples/App.js) |
+|                          Details Screen #2                          |                          Details Screen #3                         
+| :-----------------------------------------------------------: | :-----------------------------------------------------------: |
+|  ![](/snapshots/Details2.jpg)| ![](/snapshots/Details3.jpg)| 
 
 ## Installation
 
