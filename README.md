@@ -10,7 +10,7 @@ A simple and fully customizable React Native component that implements a popup U
 
 |                          Example One                          |                          Example Two                          |                         Example Three                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
-| ![](assets/popup-ui_1.gif) [examples/App.js](examples/App.js) | ![](assets/popup-ui_2.gif) [examples/App.js](examples/App.js) | ![](assets/popup-ui_3.gif) [examples/App.js](examples/App.js) |
+![](/snapshots/Home.jpg)| ![](assets/popup-ui_2.gif) [examples/App.js](examples/App.js) | ![](assets/popup-ui_3.gif) [examples/App.js](examples/App.js) |
 
 
 ## Example toast
