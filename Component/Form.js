@@ -57,14 +57,14 @@ export default class Forms extends Component {
   DoPayment() {
     var options = {
       description: 'Trial Payment Gateway',
-      image: 'https://i.imgur.com/3g7nmJC.png',
+      image: '***g',
       currency: 'INR',
-      key: 'rzp_test_OXwh5AjHCYu90U', // Your api key
-      amount: '5000',
+      key: '***', // Your api key
+      amount: '***0',
       name: 'Ashish Gupta',
       prefill: {
-        email: 'ashish.nutom@gmail.com',
-        contact: '8929495906',
+        email: 'ashish****il.com',
+        contact: '***',
         name: 'NuTom Intern'
       },
       theme: { color: '#F37254' }
