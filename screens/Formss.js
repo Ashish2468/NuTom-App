@@ -2,7 +2,6 @@ import React from 'react'
 import { StyleSheet, Text, ScrollView, View, ImageBackground, TouchableOpacity, KeyboardAvoidingView } from 'react-native'
 import { Container, Header, Content, Item, Form, Label, NativeBaseProvider } from 'native-base';
 // import Forms from '../Component/Form';
-// import Ionicons from 'react-native-vector-icons/Ionicons';
 
 export default function Formss({ navigation }) {
 
