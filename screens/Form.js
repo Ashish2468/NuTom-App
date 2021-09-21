@@ -1,13 +1,7 @@
-import React from 'react'
-// import { StyleSheet, Text, View,Button } from 'react-native'
-
-import { StyleSheet, Text, ScrollView, Button, View, ImageBackground, TouchableOpacity, KeyboardAvoidingView } from 'react-native'
+import React from 'react';
+import { StyleSheet, Text, ScrollView, Button, View, ImageBackground, TouchableOpacity, KeyboardAvoidingView } from 'react-native';
 import { Container, Header, Content, Item, Label, NativeBaseProvider } from 'native-base';
-// // import { TextInput } from 'react-native-paper';
-// // import { Input } from 'react-native-elements';
-// import Forms from '../Component/Form';
 import Ionicons from 'react-native-vector-icons/Ionicons';
-// // import { Icon } from 'react-native-elements'
 import Icon from 'react-native-vector-icons/FontAwesome';
 import Forms from '../Component/Form';
 
