@@ -101,7 +101,7 @@ $ git clone https://github.com/Ashish2468/NuTom-App-UI.git
 
 ## Author
 
-Ashish Gupta| [https://linkedin.com/in/rafaelaugustos/](https://www.linkedin.com/in/ashish-gupta-2002/)
+Ashish Gupta| [https://linkedin.com/in/ashish-gupta-2002/](https://www.linkedin.com/in/ashish-gupta-2002/)
 
 
 ## LICENSE
