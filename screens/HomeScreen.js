@@ -16,23 +16,6 @@ export default function HomeScreen({ navigation }) {
         </View>
         <Text style={{ marginVertical: "6%" }}> "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem nisi odit aspernatur laborum quisquam. Expedita iste temporibus magnam corrupti ducimus"</Text>
 
-        {/* <Text>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga dolores possimus saepe aliquam id praesentium voluptates impedit omnis tempore? Sint.</Text> */}
-        {/* <Button 
-            onPress={() => navigation.navigate('Notifications')}>
-        <Text> HI hello</Text>
-        </Button> */}
-        {/* <TouchableOpacity
-          onPress={() => navigation.navigate('Notifications')}>
-          <Text>Hi Hello</Text></TouchableOpacity>
-
-        <View style={{ alignItems: 'center', }}>
-          <TouchableOpacity style={styles.button}
-            onPress={() => navigation.navigate('Notifications')}>
-            <Text style={styles.Text}>
-              Register Now!
-            </Text>
-          </TouchableOpacity>
-        </View> */}
         
         <View style={{ alignItems: 'center', }}>
           <TouchableOpacity style={styles.button}
@@ -49,12 +32,7 @@ export default function HomeScreen({ navigation }) {
             </LinearGradient>
           </TouchableOpacity>
         </View>
-        {/* <Button
-          onPress={() => navigation.navigate('Formscreen')}
-          title="Learn More"
-          color="#841584"
-          accessibilityLabel="Learn more about this purple button"
-        /> */}
+
       </View>
     </ScrollView>
   );
@@ -83,10 +61,8 @@ const styles = StyleSheet.create({
   },
   button: {
     marginTop: 20,
-    // backgroundColor: "#ccc",
     alignItems: 'center',
     justifyContent: 'center',
-    // borderRadius: 10,
   },
   Text: {
     fontSize: 23,
