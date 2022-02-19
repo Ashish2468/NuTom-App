@@ -1,7 +1,6 @@
 import React from 'react'
 import { StyleSheet, Text, ScrollView, View, ImageBackground, TouchableOpacity, KeyboardAvoidingView } from 'react-native'
 import { Container, Header, Content, Item, Form, Label, NativeBaseProvider } from 'native-base';
-// import Forms from '../Component/Form';
 
 export default function Formss({ navigation }) {
 
@@ -14,13 +13,10 @@ export default function Formss({ navigation }) {
             <View style={{ padding: 20 }}>
               <KeyboardAvoidingView>
                 <TouchableOpacity onPress={() => navigation.navigate('Home')} style={{ marginVertical: "2%" }}>
-                  {/* <Ionicons name="md-chevron-back" size={44} color="white" /> */}
                 </TouchableOpacity>
-                {/* <Forms/> */}
               </KeyboardAvoidingView>
               <TouchableOpacity onPress={() => navigation.replace('Detailsscreen')}
-                style={{ marginVertical: "4%" }}>
-                {/* <Ionicons name="md-chevron-forward" size={44} color="white" /> */}
+                style={styles.opacity}>
               </TouchableOpacity>
             </View>
 
@@ -38,4 +34,5 @@ const styles = StyleSheet.create({
     // borderColor: '#edef11',
     color: "white"
   },
+  opacity:{ marginVertical: "4%" },
 })
